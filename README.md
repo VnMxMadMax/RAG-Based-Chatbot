@@ -109,6 +109,12 @@ Just open `index.html` in your browser (you may use Live Server in VSCode or hos
 - File/URL input form
 - Real-time Q&A interaction
 
+  ![image](https://github.com/user-attachments/assets/e98bcb0a-e851-4ec2-9f07-6807833077cb)
+
+
+  ![image](https://github.com/user-attachments/assets/e6cad20e-358e-4718-911c-a992132ca0f4)
+
+
 ---
 
 ## 🧪 Example Use Cases
