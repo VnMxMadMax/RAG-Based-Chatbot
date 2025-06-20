@@ -30,7 +30,7 @@ app.add_middleware(
 )
 
 # Configuration
-os.environ['GOOGLE_API_KEY'] = "AIzaSyAhicMYD1knAg54ucXuRi4Ot2eCijKh4uc"
+os.environ['GOOGLE_API_KEY'] = "your-api-key"
 EMBEDDING_MODEL = "sentence-transformers/all-mpnet-base-v2"
 
 # Global variables
